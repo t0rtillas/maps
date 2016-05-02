@@ -71,10 +71,11 @@
 44.499376, 11.351645
 44.498557, 11.354917
 
- <!-- </coordinates>
+  </coordinates>
       </LineString>
-    </Placemark>
-
+    </Placemark>7
+    
+<!--
     <Placemark>
       <name>Red Line</name>
       <styleUrl>#redLine</styleUrl>
