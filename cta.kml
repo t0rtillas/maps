@@ -9,7 +9,7 @@
     <name>Mappa ciclabile bologna</name>
     <description>Mappa ciclabile Bologna</description>
 
-    <Style id="blueLine">
+    <Style id="pistaBlu">
       <LineStyle>
         <color>ffff0000</color>
         <width>5</width>
@@ -17,8 +17,8 @@
     </Style>
 
     <Placemark>
-      <name>Blue Line</name>
-      <styleUrl>#blueLine</styleUrl>
+      <name>pistaBlu</name>
+      <styleUrl>#pistaBlu</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
